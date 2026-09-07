@@ -6,4 +6,10 @@
 #soltion 3
 # python -m py_compile myscript.py
 
-print("hello sir")
+# print("hello sir")
+
+# solution 4
+# python filename.py
+
+# soltion 5
+# False
